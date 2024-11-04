@@ -1,0 +1,159 @@
+NBER Working Paper Series
+
+Expected EPS × Trailing P/E
+
+Working Paper 32942
+
+National Bureau of Economic Research
+
+September 2024
+
+This paper explores the assumption that asset-pricing theory fundamentally relies on the idea that price equals expected discounted payoff. It critiques the common practice where analysts prioritize trailing P/E ratios over traditional discount rate computations.
+
+The authors studied 513 analyst reports from 2003 to 2022 and found that most analysts do not approach pricing based on present value. Instead, they often set price targets by using short-term earnings estimates multiplied by trailing P/E ratios. This suggests that the conventional understanding of discount rates may not align with how many market participants actually think about pricing.
+
+The findings highlight that sell-side analysts provide insights into their reasoning within their reports, revealing a trend that could reshape asset-pricing models. By focusing on realistic analyst behavior instead of theoretical discount rates, the study suggests a new path for understanding market dynamics and responses to earnings surprises.
+
+The paper emphasizes the need for a reevaluation of how asset pricing is taught and understood, as it is evident that many analysts are not using discount rates in their pricing models, challenging long-held beliefs in the field. This discussion advocates for integrating analysts’ methods into asset-pricing theory to better capture market realities.
+We admire Chris Horvers' work and encourage others to read it. Sell-side research offers more than just numerical values; it provides detailed explanations of how analysts value companies. Interestingly, Horvers, like many analysts, does not apply present-value logic when pricing cash-flow expectations. 
+
+Despite extensive research on biased earnings forecasts, analysts invest significant effort into getting numbers right. Horvers justified his value of expected earnings but opted not to approximate expected discounted payoffs. While researchers can continue using IBES data for estimated discount rates, it raises questions about relevance if asset pricing doesn’t align with these methods.
+
+Our work proposes a new model for understanding S&P 500 pricing that transcends traditional methods. We illustrate that analysts often use trailing P/E ratios, leading to sharp predictions. For example, our model details how analysts set price targets based on one-year-ahead forecasts. If a target exceeds a stock's price, investors may adjust holdings proportionally. Price growth corresponds to changes in demand, impacting expected returns.
+
+Our model suggests that trailing P/E ratios are a sensible choice since they reflect a mostly backward-looking market. When a company announces earnings outside of consensus expectations, it can impact the long-term ramifications for the firm.
+
+Research shows that trailing P/E ratios explain both analysts' price targets and market reactions to earnings surprises. For instance, Horvers utilized a trailing P/E ratio for Home Depot, and the data supports this methodology, capturing over 91% of variations in price targets. 
+
+The foundation of asset-pricing theory may need reassessment. Analysts often don’t set price targets by discounting expected earnings, but instead rely on trailing P/E ratios, suggesting a more straightforward approach may be warranted. 
+
+This paper connects to various strands of literature and builds on the notion that market participants discuss short-term cash-flow multiples, highlighting the need for further exploration of trailing P/Es and their implications for pricing.
+There is strong evidence indicating that sell-side analysts exhibit predictable biases in their earnings forecasts. Understanding how these biases affect asset prices requires appropriate modeling of how subjective beliefs are priced.
+
+This research challenges the traditional discount-rate approach to asset pricing, which suggests that share prices should reflect investors' desire to hedge against specific future risks. However, this perspective is rarely found among market participants. 
+
+A primary focus of asset-pricing research is to determine how market participants price various risky cash flows. In the case of sell-side analysts, the approach is straightforward as analysts must disclose their pricing methods in earnings reports. A regulation from the SEC mandates that research reports must include a clear explanation of the valuation methods used to establish price targets.
+
+Upon examining these reports, it appears that most analysts do not calculate expected discounted payoffs. Instead, they usually rely on a trailing price-to-earnings (P/E) ratio.
+
+The analysis is based on 513 earnings reports collected from Investext, focusing on major publicly traded companies over different years. The first sample consisted of 339 reports about 30 prominent companies. These reports reveal that typical analysts do not employ present-value reasoning for pricing predictions. 
+
+To explore the practices of top analysts, an additional 174 coverage-initiation reports from analysts who have been recognized by Institutional Investor were analyzed. These reports are seen as essential and reflect a higher level of scrutiny and effort.
+
+The findings highlight that coverage-initiation reports often involve new companies or those recently public. Thus, it is expected analysts would lean more towards forward-looking insights. Yet, many companies start with negative earnings, complicating the application of standard pricing formulas.
+
+Overall, the reports indicate that multiple analysis is the norm. Specifically, in 94.5% of the documents examined, analysts utilized some kind of multiples analysis, with price-to-earnings being the most frequently employed approach.
+Analysts frequently utilize E[EBITDA]×TrailingEVtoEBITDA, particularly when a company's EPS has been negative in recent years. In this context, we consider it a conservative method.
+
+The majority of analysts set price targets based on multiples analysis, with the following breakdown from different years:
+
+- 2004: 85.7% used any multiple.
+- 2011: 91.4% used any multiple.
+- 2019: 96.8% used any multiple.
+
+Specific methods include:
+
+- P/E ratio: 79.1% in 2004 dropping to 69.0% in 2019.
+- EBITDA, cash flow, or sales multiples: steady at 50.6% in 2011 and 2019.
+- Book Value: only 3.4% in 2019.
+- P/E-to-Growth: varied significantly over the years.
+- Dividend Yield: consistent use across years.
+
+The data reflect that price targets are often derived from both a firm's own past pricing (63.5%) and peer pricing (74.1%). Analysts typically favor comparisons with peers, particularly in coverage-initiation reports due to limited historical data for newly public firms.
+
+In addition, sell-side analysts actively employ complex analyses more than simple discounted cash flow (DCF) models. For example, sum of the parts (SOTP) analysis is utilized in only 9.6% of cases, showcasing the reliance on backward-looking multiples.
+
+However, DCF models are infrequently applied, mentioned in 30.2% of reports, but are seldom the sole method used. Many analysts do not emphasize the forward-looking aspect of DCF, treating it like other multiples.
+
+Lastly, blending price targets using various methods is common, with 38.8% of analysts employing multiple multiples and only 5.5% relying solely on discount models in their analyses.
+The percentage of reports using DCF or dividend discount models to set price targets shows that analysts frequently rely on these approaches in niche industries. Analysts typically do not set price equal to expected discounted payoff, though present-value logic is used for sectors like shipping, REITs, and resource extraction.
+
+Example reports illustrate how analysts disclose their methodologies. However, most earnings reports follow different reasoning. Instead of using concepts like stochastic discount factors, analysts' return forecasts often spring from beliefs regarding short-term earnings growth rates. Analysts like Brian Tunick offer estimates based on trailing P/E ratios rather than future payoffs, indicating a backward-looking mindset in pricing.
+
+Further analysis reveals that subjective expectations don't align with traditional asset-pricing models. Analysts' price targets often don’t respect the identities of their calculations, leading to results that may not provide truthful insights into asset pricing.
+
+For instance, in a report on Pepsi, the analyst used a backward-looking P/E ratio while expressing an optimistic outlook. This disparity between price targets and the underlying methodology suggests a different approach to assessing future earnings. Similar patterns can be found in reports from other analysts, where past performance heavily influences current pricing decisions.
+
+Overall, many earnings reports lack discussions on dividend payout rates, suggesting analysts focus more on expected EPS than on actual expected payoffs. This trend highlights a potential misalignment between academic asset-pricing theories and the practical methodologies employed by analysts in the field.
+Analysts mention a company’s dividend yield in only 6.4% of reports. The majority do not utilize present-value models; instead, they compute the present discounted value of cash flows, not dividend payouts. Analysts often overlook a company’s plowback rate, leading to similar price targets for companies with different dividend payouts. For example, a Wells Fargo report about Citigroup highlights the use of a dividend discount model, which is rare.
+
+When dividend yield is discussed, it’s mainly for return forecasts and rarely impacts price targets. Analysts tend to separate capital gains and dividends as independent variables.
+
+In a November 2011 report on Chevron Corp, the lead analyst, Philip Weiss, set a price target of $130, 24% above the current price, without referencing Chevron's dividend yield directly in the justification process. Instead, the yield only appeared in the buy recommendation.
+
+Despite predicting that Chevron's dividend yield would grow over the next year, Weiss used a trailing yield to calculate expected returns, highlighting a deviation from typical finance logic.
+
+Interviews with sell-side analysts suggest that their methods sections provide a brief overview of how price targets are calculated, but certain biases may affect their optimism. Analysts usually aim to present their understanding of a company’s fundamentals accurately.
+
+Recent studies indicate that few analysts incorporate DCF models in earnings reports, and many conference calls do not mention present-value logic. The use of multiple analysis remains prevalent, evidenced by regulatory filing data showing only 19% mentioning any discount-related terms, while 92.9% reference multiples analysis.
+
+Even if sell-side analysts solely rely on trailing P/E ratios, the beliefs of other investors are not observable. The disparity in how analysts and researchers describe price forecasting underscores the varied approaches to understanding expected returns in the market.
+They assume that investors use the expected return from models as their discount rate when setting price levels. In a sample of 155 reports mentioning a discounted cash flow or dividend discount model, many did not specify the discount rate used. Philip Weiss set a price target for Chevron in 2011, documenting numerous numerical values, but did not disclose which discount rate was applied.
+
+Analysts' implied discount rates align with various asset-pricing models, yet if these rates aren't actually employed to price assets, the source of the empirical fit remains unclear. It appears researchers are modeling a non-essential problem for sell-side analysts, who primarily focus on predicting earnings instead of calculating expected discounted payoffs.
+
+While analysts strive to get earnings numbers accurate, they often overlook crucial aspects of asset pricing that researchers emphasize. This raises questions about the simplicity of pricing models based solely on earnings without considering investor behavior.
+
+In a basic model outlined, analysts set one-year price targets using trailing P/E ratios. Investors adjust holdings based on the difference between the target price and current price, demonstrating a direct link between expected short-term earnings growth and investor demand. Analysts' price targets, while not grounded in present-value logic, can still yield accurate predictions if market prices don't reflect such logic either.
+
+Overall, the real-world focus of analysts on near-term earnings is significant, diverging from traditional asset-pricing theories that revolve around expected discounted payoffs.
+The noise term captures all reasons why a company’s share price might fluctuate. Analysts’ price targets can still be accurate even when price does not equal expected discounted payoff. If investors follow a specific demand equation, realized price growth can be modeled accurately. Analysts determine price targets by multiplying expected earnings per share (EPS) by trailing price-to-earnings (P/E) ratios. It's intriguing that the price path derived from these assumptions remains straightforward.
+
+The established framework rules out various prediction mechanisms. Specifically, news related to a firm can only forecast future returns if it correlates with either changes in cash-flow expectations or discount rates. If news is uncorrelated with near-term earnings growth, it cannot predict average returns, emphasizing the relevance of current expectations over distant future events.
+
+In analyzing price targets set by analysts, historical data reveals significant explanatory power from the relationship between trailing P/E ratios and price targets. The study utilizes data on common stocks from significant exchanges over two decades, refining the sample to ensure reliability. Analysts issue their price targets for an upcoming fiscal year, adjusting their forecasts based on evolving information.
+
+In summary, price targets and expected EPS forecasts form the cornerstone of analyst recommendations, proving effective over a significant timeframe.
+Trailing P/E is a company's current price divided by its trailing twelve-month EPS. The implied P/E ratio from an analyst's price target and EPS forecast is calculated as Price Target divided by expected EPS. If analysts based their targets solely on the trailing P/E ratio, any new price target would equal the trailing P/E.
+
+In our analysis, we focus on samples where the P/E ratios range between 5 and 50, as market participants view extremes with skepticism. Analysts usually then pursue alternative valuation methods when P/E is outside this range. 
+
+Sell-side analysts often use the trailing P/E ratio to convert their earnings forecast into a price target. We studied updates to these price targets through regression analysis while controlling for various fixed effects. Our findings reveal that trailing P/E significantly impacts price targets.
+
+The relationship between implied P/E ratios and trailing P/E ratios indicates a strong correlation, although some analysts adjust targets beyond the basic formula due to different assessment techniques, market conditions, or preference for round numbers.
+
+Additionally, the latest four quarters of EPS have the most significant effect on the implied P/E, but earlier periods also influence the results. A thorough analysis of past earnings provides insight into the trends, explaining a significant portion of variation in analyst price targets without over-complicating the model.
+The analysis reveals that trailing P/E ratios are not just reflections of expected future prices but also inform realized prices. When a company reports earnings that exceed analysts' expectations, for instance, its stock price is likely to rise. The increase can stem from higher short-term earnings expectations or multiples expansion.
+
+In essence, a positive earnings surprise—in this case, an increase of ten cents per share—will likely elevate the analysts’ EPS forecast, which in turn raises the price target and subsequently drives up the company's share price due to increased investor demand.
+
+The relationship between a firm's trailing P/E and its price change appears consistent regardless of the nature of the earnings surprise, whether it's positive or negative. The analysis involves grouping stock-quarter observations based on the size of their earnings surprises and running regressions to estimate the impact of trailing P/E on price changes.
+
+Interestingly, the slopes of the regressions show a linear increase in price response with larger earnings surprises, which suggests that significant earnings announcements often indicate fundamental changes in a company's future earnings. This challenges traditional asset pricing paradigms that might expect more complex relationships, like an S-shaped curve.
+
+What we find is that in practice, investors adjust their expectations based on trailing P/E ratios rather than solely relying on discounted future earnings. Analysts typically capitalize on current short-term earnings expectations rather than discounting future cash flows. This difference in perspective demonstrates a more practical approach, as sell-side analysts often base their price targets on how comparably firms were valued previously under similar circumstances.
+
+Overall, the findings highlight the importance of trailing P/E in investor decision-making and its significant influence on price responses post-earnings announcements.
+Researchers have spent years analyzing how analysts determine their discount rates, but often their methods rely on subjective earnings expectations rather than these rates. Typically, analysts use a trailing price-to-earnings ratio (P/E) for pricing. It is important to question whether "expected discounted payoff" is a valid assumption for modeling sell-side analysts. 
+
+To illustrate productive alternative approaches, a model has been proposed: PriceTarget = E[EPS] × TrailingPE. This model effectively explains both analysts' price targets and the market's response to earnings announcements.
+
+References include significant works such as Mostly Harmless Econometrics, studies on analyst target prices, corporate discount rates, and empirical finance research. Key insights from various papers highlight the importance of understanding analyst behavior, earnings expectations, and valuation techniques.
+
+The research also notes that analysts may not be as aligned with theoretical pricing models as once thought. Instead, their methods often reflect more practical interpretations and adjustments based on market conditions and earnings reports.
+
+This work indicates a shift in understanding how financial analysts operate, urging a re-evaluation of asset-pricing models in the context of real-world practices.
+Then, if we consider expectations under the correct distribution, we can express the price change as:
+
+Expected Price Change = ν × (Demand t+1 - Demand t) / Demand t
+
+Investors determine their demand for the upcoming year at time t, making Demand t+1 a non-random variable. 
+
+Investors adjust their portfolios based on changes in analysts’ earnings forecasts, leading us to redefine expectations in terms of earnings per share (EPS):
+
+Expected Price Change = (ν·μ) × (E[EPS t+2] - EPS t) / EPS t
+
+This establishes a correlation between analysts’ EPS forecasts and the firm’s average price. Rearranging yields the average price next year based on near-term earnings forecasts multiplied by a trailing P/E ratio, plus additional terms. 
+
+The calculations indicate that unnecessary terms vanish when μ equals 1/ν.
+
+The left-side of the equation represents the expected return, while the right-side is influenced by analysts’ short-term earnings expectations. 
+
+Further analysis includes forecasts from various analysts for different companies, examining closing prices, price targets, EPS, and P/E ratios over time to provide insights on market expectations.
+Red is the P/E implied by Brian Tunick’s forecasts. The analysis includes closing prices, price targets, and earnings per share (EPS) forecasts for various companies from 2003 to 2022.
+
+Highlighted firms include United Healthcare, Walmart, and various others, presenting their trailing twelve-month (TTM) EPS alongside P/E ratios, both trailing and implied.
+
+Figures illustrate trends for multiple companies, depicting the relationship between trailing P/E and implied P/E. Each scatterplot includes data on price targets and EPS forecasts.
+
+The text references numerous firms including Big Lots, Boeing, Amazon, Disney, and Starbucks. The data sample encompasses reports from IBES for a clear analysis of P/E ratios over nearly two decades.
